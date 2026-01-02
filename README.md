@@ -7,12 +7,38 @@ Self-taught Data Analyst with hands-on experience in data analysis and dashboard
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+## 📊 Featured Data Analytics Projects
+
+🔹 HR Recruitment Funnel Analytics | Power BI ,Excel 
+Analysed candidate flow from sourcing to hiring, identified stage-wise drop-offs and recruiter performance.
+
+🔹 Compensation Benchmark Analysis | Excel, SQL  
+Compared internal salaries with market benchmarks to identify pay gaps and cost optimisation opportunities.
+
+🔹 Workforce & Attrition Dashboard | Excel
+Tracked headcount, attrition trends, and tenure to support retention-focused decisions.
+
+## 🐍 Python (In Progress)
+• Learning Pandas and NumPy for data analysis
+• Practising data cleaning and basic EDA
+• Applying Python to small analytics tasks
+
+## 📫 Open to Opportunities
+• Entry-level Data Analyst roles
+• Freelance data cleaning and dashboard projects
+• Analytics collaborations
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=saiteja-kamma&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=saiteja-kamma&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiteja-kamma&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
