@@ -1,4 +1,9 @@
-### Hi🙋‍♂️ I’m SAITEJA
+<h1 align="center">Hi, I’m Saiteja 👋</h1>
+
+<p align="center">
+Self-taught Data Analyst focused on business & HR analytics using Excel, SQL, and Power BI.
+</p>
+
 
 # 💫 About Me:
 Self-taught Data Analyst with hands-on experience in data analysis and dashboard projects.<br>Skilled in Excel, SQL, and Power BI. Currently learning Python for data analysis.<br><br>🔭 I’m currently working on:<br>- Data analytics portfolio projects<br>- Power BI dashboards with business insights<br>- Improving SQL skills<br>- Learning Python for data analysis<br><br>👯 I’m looking to collaborate on:<br>- Data analytics projects<br>- Data cleaning and dashboard work<br>- Entry-level freelance analytics assignments<br><br>💬 Ask me about:<br>- Excel & Power BI dashboards<br>- Data cleaning & analysis<br>- SQL for analytics<br>- HR & business analytics<br>
